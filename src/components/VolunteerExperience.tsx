@@ -30,15 +30,15 @@ const VolunteerExperience = () => {
   ];
 
   const images = [
-    "./public/v_exp/v_exp (1).jpg",
-    "./public/v_exp/v_exp (2).jpg",
-    "./public/v_exp/v_exp (3).jpg",
-    "./public/v_exp/v_exp (4).jpg",
-    "./public/v_exp/v_exp (5).jpg",
-    "./public/v_exp/v_exp (6).jpg",
-    "./public/v_exp/v_exp (7).jpg",
-    "./public/v_exp/v_exp (8).jpg",
-    "./public/v_exp/v_exp (9).jpg",
+    "./v_exp/v_exp (1).jpg",
+    "./v_exp/v_exp (2).jpg",
+    "./v_exp/v_exp (3).jpg",
+    "./v_exp/v_exp (4).jpg",
+    "./v_exp/v_exp (5).jpg",
+    "./v_exp/v_exp (6).jpg",
+    "./v_exp/v_exp (7).jpg",
+    "./v_exp/v_exp (8).jpg",
+    "./v_exp/v_exp (9).jpg",
   ];
 
   return (
